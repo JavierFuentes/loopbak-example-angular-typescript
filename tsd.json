@@ -1,0 +1,51 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "tsd.d.ts",
+  "installed": {
+    "mime/mime.d.ts": {
+      "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+    },
+    "express/express.d.ts": {
+      "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+    },
+    "node/node.d.ts": {
+      "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+    },
+    "method-override/method-override.d.ts": {
+      "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+    },
+    "errorhandler/errorhandler.d.ts": {
+      "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+    },
+    "node-uuid/node-uuid.d.ts": {
+      "commit": "ce340e14bc4cddb77f1dd0e58faafff1e5f0c3e5"
+    },
+    "node-uuid/node-uuid-base.d.ts": {
+      "commit": "ce340e14bc4cddb77f1dd0e58faafff1e5f0c3e5"
+    },
+    "node-uuid/node-uuid-cjs.d.ts": {
+      "commit": "3de2726e83e2995643b2907359a092408172fa30"
+    },
+    "mysql/mysql.d.ts": {
+      "commit": "a22c78d619f18548081e69ce68b950dc6265a74a"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "b13a8c64ffd368b4528f222f404f67b4c7d76cfb"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "d633cdaf3b3de6d7e61c13f9aa974a202671cddf"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "e6f49a3af33ba41c26873a6911388f8b873439f0"
+    }
+  }
+}
