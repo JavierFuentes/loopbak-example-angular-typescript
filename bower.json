@@ -1,7 +1,7 @@
 {
   "name": "loopback-example-angular-typescript",
   "version": "0.0.0",
-  "homepage": "https://github.com/strongloop/loopback-example-angular",
+  "homepage": "https://github.com/javierfuentes/loopback-example-angular",
   "ignore": [
     "**/.*",
     "node_modules",
