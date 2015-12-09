@@ -58,7 +58,6 @@ $ tsc
 
 ### Code files added to project
 
-
 ```
 /
     tsd.json                    ## References for Typescript Definition files (tsd)
